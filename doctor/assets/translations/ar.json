@@ -1,0 +1,28 @@
+{
+  
+  "welcome_text": "مرحبًا بك في لوحة الطبيب",
+  "patient_name": "اسم المريض:",
+  "enter_patient_name": "أدخل اسم المريض",
+  "age": "العمر:",
+  "enter_age": "أدخل العمر",
+  "consultation_fees": "رسوم الاستشارة (شيكل):",
+  "enter_consultation_fees": "أدخل رسوم الاستشارة",
+  "date_time": "التاريخ والوقت",
+  "enter_date": "اختر التاريخ",
+  "formal_report": "نمط التقرير الطبي الرسمي",
+  "enter_formal_report": "أدخل نمط التقرير الطبي الرسمي",
+  "common_terms": "مصطلحات طبية شائعة",
+  "enter_common_terms": "أدخل مصطلحات طبية شائعة",
+  "save_button": "حفظ بيانات الحالة الطبية",
+
+
+  "app_name": "لوحة الطبيب",
+  "settings": "الإعدادات",
+  "dark mode": "الوضع الداكن",
+  "dark_mode_sub": "تغيير ثيم التطبيق",
+  "language": "اللغة",
+  "current_language": "العربية",
+  "about": "حول التطبيق",
+  "select language": "اختر اللغة",
+  "legalese": "© 2026 عبد الرحيم صلاح"
+}

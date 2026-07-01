@@ -1,0 +1,28 @@
+{
+    
+  "welcome_text": "Welcome to Doctor Panel",
+  "patient_name": "Patient Name:",
+  "enter_patient_name": "Enter patient name",
+  "age": "Age:",
+  "enter_age": "Enter age",
+  "consultation_fees": "Consultation fees (NIS):",
+  "enter_consultation_fees": "Enter consultation fees",
+  "date_time": "Date and Time",
+  "enter_date": "Enter Date",
+  "formal_report": "Formal Medical Report Style",
+  "enter_formal_report": "Enter Formal Medical Report Style",
+  "common_terms": "Common Medical Terms",
+  "enter_common_terms": "Enter Common Medical Terms",
+  "save_button": "Patient Case Data Saving",
+
+  "app_name": "Doctor Panel",
+  "settings": "Settings",
+  "dark mode": "Dark Mode",
+  "dark_mode_sub": "Change app theme",
+  "language": "Language",
+  "current_language": "English",
+  "about": "About App",
+  "select language": "Select Language",
+  "legalese": "© 2026 Abdalrheem Salah"
+
+}
